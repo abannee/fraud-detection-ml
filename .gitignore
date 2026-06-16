@@ -220,3 +220,6 @@ data/raw/
 .env
 .venv/
 models/*.pkl
+
+
+**/exploration/
